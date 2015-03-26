@@ -1,6 +1,6 @@
 #include "seatest.h"
 //
-// create a test...
+// create a sample test...
 //
 void test_hello_world()
 {
