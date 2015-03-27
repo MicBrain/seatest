@@ -18,4 +18,3 @@ void test_assert_n_array_equal();
 void test_fixture_seatest();
 void all_tests();
 
-
