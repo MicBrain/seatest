@@ -30,7 +30,7 @@ int main( int argc, char** argv )
 /*************************************************************************************************************************************************************/
 
 /*
-Use this if you don't have any global setup/teardown...
+Use this if you don't have any global setup/teardown!
 */
 int main_no_setup_or_teardown( int argc, char** argv )
 {
