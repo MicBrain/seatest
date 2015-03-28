@@ -117,4 +117,3 @@ AS_VAR_POPDEF([VAR])dnl
 AS_VAR_POPDEF([FLAGS])dnl
 ])
 
-
