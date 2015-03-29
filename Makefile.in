@@ -16,4 +16,3 @@ seatest_tests:
 clean:
 	$(RM_F) src/*.o
 
-
