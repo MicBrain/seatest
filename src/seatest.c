@@ -479,4 +479,3 @@ void seatest_enable_logging()
   seatest_simple_test_result = seatest_simple_test_result_log;
 }
 #endif
-
