@@ -15,4 +15,3 @@ AC_PROG_MKDIR_P()
 AC_OUTPUT(Makefile)
 
 
-
